@@ -6,5 +6,7 @@ Vector graphics are drawn to the `PGraphics` instance `tileBuffer`, and the tile
 
 # Credits
 by morphogencc (nathan lachenmyer)
+
 http://morphogen.cc/
+
 2014 Dec

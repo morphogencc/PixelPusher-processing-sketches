@@ -6,5 +6,7 @@ Images are drawn to the `PImage` instance `tileBuffer`, and the tile's pixels ar
 
 # Credits
 by morphogencc (nathan lachenmyer)
+
 http://morphogen.cc/
+
 2014 Dec
